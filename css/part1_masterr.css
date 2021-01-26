@@ -1,0 +1,12 @@
+body{
+  background-image: : url("FarmOne Logo.PNG")
+  background-repeat:repeat;
+}
+
+div{
+  background:yellow;
+  border-color: blue;
+
+  border-style: dotted;
+  border-radius: 5;
+}

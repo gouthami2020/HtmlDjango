@@ -1,0 +1,16 @@
+body{
+background: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2FvVRHIqC.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fsunset-beaches-wallpaper&tbnid=K3NuHD3FUFQp_M&vet=12ahUKEwjOo5TCoentAhUBF7cAHbvuDzEQMygDegUIARCxAQ..i&docid=HykE1GygkR7nQM&w=1920&h=1200&q=beach%20images&hl=en-GB&ved=2ahUKEwjOo5TCoentAhUBF7cAHbvuDzEQMygDegUIARCxAQ);
+}
+div{
+  background: orange;
+  border-color: red;
+  border-style: dashed;
+  border-width: 5px;
+
+}
+p{
+  color: purple;
+}
+span{
+  background: green;
+}
